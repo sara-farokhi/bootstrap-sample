@@ -1,0 +1,43 @@
+/* HERO SECTION */
+
+
+/* NAV  */
+
+.navbar-dark {
+    z-index: 1000;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+
+/* HERO IMG */
+
+.heroImg {
+    width: 100%;
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url('../images/8.jpg') no-repeat center top;
+    background-size: cover;
+}
+
+.centerAll {
+    padding: 95px 0;
+}
+
+.bi.bi-check-square-fill {
+    font-size: 50px;
+    padding: 0
+}
+
+form {
+    opacity: 0.;
+}
+
+.BTN-close {
+    color: #dc3545;
+    cursor: pointer;
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: 0.25em 0.25em;
+}
